@@ -1,0 +1,38 @@
+Archivo de Prueba para GitHub
+=============================
+
+Este es un archivo de texto de prueba creado por Mery2597
+para verificar la conexión entre Visual Studio Code y GitHub.
+
+Detalles del archivo:
+- Nombre: prueba_github.txt
+- Fecha: $(date)
+- Usuario: Mery2597
+- Repositorio: script
+
+Contenido de prueba:
+===================
+Línea 1: Verificación básica de texto
+Línea 2: Caracteres especiales: áéíóú ñÑ
+Línea 3: Símbolos: !@#$%^&*()_+-=[]{}|;:',.<>?
+Línea 4: Números: 1234567890
+Línea 5: Texto en mayúsculas: TEXTO DE PRUEBA
+Línea 6: Texto en minúsculas: texto de prueba
+
+Propósito:
+==========
+- Probar commits desde VS Code
+- Verificar pushes a GitHub
+- Confirmar que la conexión funciona
+- Validar formato de archivos de texto
+
+Estado: PRUEBA EXITOSA
+=====================
+
+Si estás leyendo este archivo en GitHub, significa que:
+✅ La conexión VS Code - GitHub funciona correctamente
+✅ Los commits se ejecutan sin errores
+✅ Los pushes se completan exitosamente
+✅ Los archivos de texto se suben correctamente
+
+¡Configuración completada con éxito!
